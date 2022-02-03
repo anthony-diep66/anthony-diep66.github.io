@@ -38,3 +38,6 @@ Cube is my favoriate shape. More information can be found at this [wiki link](ht
 - [x] cereal
 - [x] eggs
 - [ ] juice
+
+## stonks
+📈 📉
