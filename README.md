@@ -28,4 +28,13 @@ Cube is my favoriate shape. More information can be found at this [wiki link](ht
         - One
             - One
             - Two
-3.
+3. One
+
+## Groceries
+
+[] milk
+[] peas
+[] meat
+[x] cereal
+[x] eggs
+[] juice
