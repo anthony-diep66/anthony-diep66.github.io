@@ -32,9 +32,9 @@ Cube is my favoriate shape. More information can be found at this [wiki link](ht
 
 ## Groceries
 
-- [] milk
-- [] peas
-- [] meat
+- [ ] milk
+- [ ] peas
+- [ ] meat
 - [x] cereal
 - [x] eggs
-- [] juice
+- [ ] juice
